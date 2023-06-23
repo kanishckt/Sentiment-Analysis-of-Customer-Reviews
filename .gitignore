@@ -4,8 +4,8 @@ __pycache__/
 *$py.class
 
 # my Project
-*.xlsx
 *.txt
+
 # C extensions
 *.so
 
